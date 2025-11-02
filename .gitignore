@@ -2,6 +2,9 @@
 node_modules/
 .DS_Store
 
+# Database scripts (sensitive)
+db_scripts/
+
 # Backend
 backend/__pycache__/
 backend/*.py[cod]
